@@ -1,7 +1,10 @@
 # **Well-Log Lithology Classification - HCML One**
 
 ## **Overview**
-This repository contains our project submission for **SCALE-UP 2025 Geo-energy Hackathon**. Our team, **HCML One**, participated in the **Professional** category and secured **7th place** with a final score of **0.6276**. The goal of this competition was to develop a machine learning model to predict lithology types using well log data.
+This repository contains our project submission for **SCALE-UP 2025 Geo-energy Hackathon**. Our team, **HCML One**, participated in the **Professional** category and secured **7th place**move to final round) ( with a final score of **0.6276**. The goal of this competition was to develop a machine learning model to predict lithology types using well log data.
+
+![image](https://github.com/user-attachments/assets/2e9db128-ed73-4003-af68-4049ed43ab74)
+
 
 ## **Project Description**
 Lithology classification is crucial in oil and gas exploration, as it helps geologists and engineers understand subsurface rock formations. This project leverages **machine learning** to classify lithology based on well log data, optimizing the exploration process for energy resources.
