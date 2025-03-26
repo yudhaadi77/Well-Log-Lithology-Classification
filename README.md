@@ -91,9 +91,9 @@ python src/generate_submission.py
 We extend our gratitude to **SCALE-UP 2025 Geo-energy Hackathon**, **Husky-CNOOC Madura Limited (HCML)**, and our mentors for their guidance and support throughout the competition.
 
 ## **Contributors**
-- **Yudha Adi Putra**
-- **Sherly**
 - **Alvin**
+- **Sherly**
+- **Yudha**
 
 ---
 📩 **For inquiries, feel free to contact us!**
